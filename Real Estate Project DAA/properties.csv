@@ -1,0 +1,4 @@
+id,name,location,type,price,owner,status
+1,Sunshine Villa,Dubai,Villa,1200000.0,Ali Khan,Available
+2,Riverside Apartment,New York,Apartment,850000.0,John Doe,Sold
+3,Anu Kumar,kharar,Commercial,350000.0,Anu,Open
